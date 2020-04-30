@@ -1,0 +1,13 @@
+<students>
+<student>
+<info> name:fang Code:20191111 Academy:software</info>
+<course>A001_Chinese_XiaoMing_1-1,2-5,4-3,_1,2,3,4,5,_1#building</course>
+<course>A002_Python_Lisa_1-3,2-4,5-2,_1,2,3,4,5,6,7,8,_1#building</course>
+</student>
+<student>
+<info> name:fei Code:20194444 Academy:software</info>
+<course>A003_Math_Tom_1-2,3-2,4-2,_1,2,3,4,5,6,7,8,9,10,_1#building</course>
+<course>A004_English_Tayor_2-1,_4,5,6,7,8,_1#building</course>
+</student>
+</students>
+
